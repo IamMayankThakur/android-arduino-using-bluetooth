@@ -85,33 +85,8 @@ public class Connection extends AppCompatActivity {
                         handler.postDelayed(this,200);
                     }
                 };
-                runnable.run();
-                //ListenInput.start();
-
-
-               // byte[] buffer = new byte[1024];  // buffer store for the stream
-
-                //int bytes; // bytes returned from read()
-
-                // Keep listening to the InputStream until an exception occurs
-                /*while (true) {
-                    // Read from the InputStream
-                    try {
-                        if(mmInStream==null)
-                        {
-                            Log.d("","InputStream is null");
-                        }
-                        bytes = mmInStream.read(buffer);
-                        String incomingMessage = new String(buffer, 0, bytes);
-                        incomingData.setText(incomingMessage);
-
-
-                    } catch (IOException e) {
-
-
-                    }
-            }*/
-        }});
+               runnable.run();
+           }});
 
     }
     Thread ListenInput=new Thread(){
