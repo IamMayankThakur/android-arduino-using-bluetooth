@@ -1,0 +1,7 @@
+#Thu Jun 22 14:10:28 IST 2017
+base.0=C\:\\Users\\nisha\\AndroidStudioProjects\\BluetoothCommunication2 - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e6bfc142ee9d8b7c05c78fd9e739733657b492b4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\nisha\\AndroidStudioProjects\\BluetoothCommunication2 - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8f633c9a7c479f7340302712349094de1acc1e1b\\classes.dex
+base.1=C\:\\Users\\nisha\\AndroidStudioProjects\\BluetoothCommunication2 - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8f633c9a7c479f7340302712349094de1acc1e1b
+file.0=C\:\\Users\\nisha\\AndroidStudioProjects\\BluetoothCommunication2 - Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e6bfc142ee9d8b7c05c78fd9e739733657b492b4\\classes.dex

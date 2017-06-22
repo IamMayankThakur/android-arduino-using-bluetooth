@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_1670f6b4b61a0d644881ae4b5f8da74af660d085\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_ca8fb0d8c1393f291c540485449b8589516d39db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_e107163c57500f2257e96935d49cfbb3a677986b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_3c4178e16e64ebe021f76479e72e40c8d2d86ae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_3c4178e16e64ebe021f76479e72e40c8d2d86ae9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_ca8fb0d8c1393f291c540485449b8589516d39db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_cc9fb1f5b8beac620dc57d0601e82c568993e27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a39284dd4cdb8f8938c314d91f13a29f461fb00d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_a39284dd4cdb8f8938c314d91f13a29f461fb00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_5958aedb300f5e63726106aa4eedde88bc791115.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_5958aedb300f5e63726106aa4eedde88bc791115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02ffffd6a4f351034a054c24125010cd9cc950ec">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1a82afad97a62038a5be1faf8aa412ff40255097\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_5ae5f70d5be90bf1dfcf0b875b68211c49f948db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_2298394f569c39fd5ef4e22c9a3227d69095e737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_ef5b2a5db0ae679017f2b20f5d359ecaf7ed6d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_cb24a1d0e66461306efe6b531d27541235f3fb64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_5ae5f70d5be90bf1dfcf0b875b68211c49f948db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_76e69f4b3393795aeb9c2f7a51af972955e58cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="97b575f916ff2c4dc14ddb0eb0870139d0f609bd">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ce2e7e4ad820cb502a979fc099eb0cf6b5cdb4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Q:\nishantsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4ac3675705d532e0cd8950abbbfd5e32c728f66d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6646645267d2c6c57ef4d8e19021fa0499dbe552">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e6bfc142ee9d8b7c05c78fd9e739733657b492b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_49bc37e1280a60450fdd4ef37aafa61440d82511\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\nishantsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4ac3675705d532e0cd8950abbbfd5e32c728f66d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_3f8addd5296f5fbf3834e50978e034f00bde704c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_0b932778f4251dab7036d55b6be010b400be3b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_317c0612a3f21df5322571c0f27749b32615ce31.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_adf88301462dbe86135e1c4ebf2d0435cbbf1ef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c6a95ff19ee1c2e382d51457df5dfa16e96464c">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2 - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8f633c9a7c479f7340302712349094de1acc1e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_317c0612a3f21df5322571c0f27749b32615ce31\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_d40906f1ac35c6a68385ca5b54b82765431e2b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_adf88301462dbe86135e1c4ebf2d0435cbbf1ef3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_d40906f1ac35c6a68385ca5b54b82765431e2b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\nisha\AndroidStudioProjects\BluetoothCommunication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_1670f6b4b61a0d644881ae4b5f8da74af660d085.jar" />
+    </item>
+
+</items>
