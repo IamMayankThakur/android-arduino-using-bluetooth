@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **Mayank Thakur** (thakurmayank88@gmail.com)
+* **Mayank Thakur** (mayank@mayankt.com)
 * **Nishant Ravi Shankar** (nishantravishankar@gmail.com)
 * **Preet Shah** (preethercules@gmail.com)
 
